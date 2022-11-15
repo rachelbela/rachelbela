@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rachelbela
-- 👀 I’m interested in FrontEnd
+- 👀 I’m interested in front end.
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: rachel_life@126.com
 
 <!---
